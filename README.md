@@ -12,4 +12,4 @@ Mouse Button 1 - Interact with menu elements |
 Space - Jump | 
 WASD - Move | 
 Mouse - Look | 
-P - Open Menu 
+P - Open menu 

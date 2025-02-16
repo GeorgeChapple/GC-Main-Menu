@@ -1,6 +1,6 @@
 GEORGE CHAPPLE MULTIPLAYER GAME MAIN MENU PROJECT
 ----------------------------
-Animated/interactive main menu for hypothetical multiplayer game. Created to test networking networking, C++ and Blueprints in Unreal Engine.
+Animated/interactive main menu for hypothetical multiplayer game. Created to test networking, C++ and Blueprints in Unreal Engine.
 
 Navigate the menu using the planetoid buttons and widget monitors to host a game/server or join an existing game/server.
 
